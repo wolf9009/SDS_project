@@ -162,3 +162,5 @@ as-of-v1-11-2-95e293c1a2f3
 Reference: https://stackoverflow.com/questions/43662229/flannel-installation-on-
 kubernetes และ https://medium.com/sirisoft/getting-start-with-kubernetes-
 5b4e6b89241e
+
+Project github ที่อ้างอิง https://github.com/pwlodek/ECommerce.Microservices/?fbclid=IwAR2rsV75S4wXgIBXC-19LVtL2osFCeVgTZh-u_tp2f1CnRR7e27JqY3csis
